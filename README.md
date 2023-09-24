@@ -46,3 +46,32 @@ Result Display: When the game concludes, a message box is displayed to announce 
 
 Resetting the Game: After each game, the board can be reset for a new round, and the player can select their symbol again.
 
+# Task 3
+
+Project Title: Book Recommendation System
+
+Description:
+The application is designed to provide book recommendations to users based on their selected genre preferences.
+It uses a real dataset of books, which can be replaced with your own dataset.
+Users can choose a genre from a dropdown list, and upon clicking the "Recommend Books" button, the system displays a list of recommended books from the selected genre.
+The recommendations are sorted by book ratings, displaying the top-rated books first.
+The book titles are clickable links that, when clicked, open the book's URL in the default web browser.
+The application has a clean and user-friendly graphical interface created with Tkinter and ttk (themed Tkinter) widgets.
+It features a customizable title frame with a distinctive background color and a title label.
+The main content is displayed within a frame, which itself is placed inside a canvas to enable scrolling if the content exceeds the available space.
+
+Key Features:
+Genre selection via a dropdown list.
+Book recommendations based on the selected genre.
+Clickable book titles for easy access to book details online.
+User-friendly and aesthetically pleasing interface with customizable background colors.
+
+Usage:
+Run the application.
+Select a genre from the dropdown list.
+Click the "Recommend Books" button.
+View the list of recommended books with clickable titles.
+
+Note: To use this code with your own dataset, replace the books.csv file with your dataset and adjust the code accordingly.
+
+
